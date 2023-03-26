@@ -20,7 +20,11 @@ function Navbar(props) {
             <span className="navbar-toggler-icon" />
           </button>
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
-            <form className="d-flex w-75 m-auto" role="search">
+            <div
+              className="d-flex w-75 m-auto"
+              role="search"
+              onSubmit={props.getSongs}
+            >
               <input
                 id="search"
                 value={props.songs}
@@ -33,15 +37,16 @@ function Navbar(props) {
                 aria-label="Search"
               />
               <button
+                type="submit"
                 className="btn btn-outline-secondary"
                 onClick={() => {
                   props.getSongs();
+                  console.log("function");
                 }}
-                type="submit"
               >
                 <i className="bi bi-search"></i>
               </button>
-            </form>
+            </div>
           </div>
         </div>
       </nav>
