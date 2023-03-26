@@ -1,0 +1,863 @@
+{
+    "tracks": {
+      "href": "https://api.spotify.com/v1/search?query=Shallow&type=track&market=ES&locale=en-US%2Cen%3Bq%3D0.9&offset=5&limit=10",
+      "items": [
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6KxrjoB8dMcRC295reb2Us"
+                },
+                "href": "https://api.spotify.com/v1/artists/6KxrjoB8dMcRC295reb2Us",
+                "id": "6KxrjoB8dMcRC295reb2Us",
+                "name": "The Hound + The Fox",
+                "type": "artist",
+                "uri": "spotify:artist:6KxrjoB8dMcRC295reb2Us"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6JlWkUQJQu2Py6G2zL1sLA"
+            },
+            "href": "https://api.spotify.com/v1/albums/6JlWkUQJQu2Py6G2zL1sLA",
+            "id": "6JlWkUQJQu2Py6G2zL1sLA",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27315cd182cecf33cbc7f29f107",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0215cd182cecf33cbc7f29f107",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485115cd182cecf33cbc7f29f107",
+                "width": 64
+              }
+            ],
+            "name": "Shallow",
+            "release_date": "2019-01-10",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:6JlWkUQJQu2Py6G2zL1sLA"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6KxrjoB8dMcRC295reb2Us"
+              },
+              "href": "https://api.spotify.com/v1/artists/6KxrjoB8dMcRC295reb2Us",
+              "id": "6KxrjoB8dMcRC295reb2Us",
+              "name": "The Hound + The Fox",
+              "type": "artist",
+              "uri": "spotify:artist:6KxrjoB8dMcRC295reb2Us"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 221712,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "QZ4JJ1981188"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4q0v24VXobXe0kTLb46Xa9"
+          },
+          "href": "https://api.spotify.com/v1/tracks/4q0v24VXobXe0kTLb46Xa9",
+          "id": "4q0v24VXobXe0kTLb46Xa9",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Shallow",
+          "popularity": 51,
+          "preview_url": "https://p.scdn.co/mp3-preview/b3004445a4c5b8fe44cdf08055313b88e9533d23?cid=774b29d4f13844c495f206cafdad9c86",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:4q0v24VXobXe0kTLb46Xa9"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
+                },
+                "href": "https://api.spotify.com/v1/artists/59QZR94fPLVcOx2sWEk7xn",
+                "id": "59QZR94fPLVcOx2sWEk7xn",
+                "name": "Ashley Park",
+                "type": "artist",
+                "uri": "spotify:artist:59QZR94fPLVcOx2sWEk7xn"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4n45pxb3NgvTpaaVMAo0bP"
+                },
+                "href": "https://api.spotify.com/v1/artists/4n45pxb3NgvTpaaVMAo0bP",
+                "id": "4n45pxb3NgvTpaaVMAo0bP",
+                "name": "Chris Alan Lee",
+                "type": "artist",
+                "uri": "spotify:artist:4n45pxb3NgvTpaaVMAo0bP"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0"
+            },
+            "href": "https://api.spotify.com/v1/albums/2MxZ2f68wKQKL7RNlKB2s0",
+            "id": "2MxZ2f68wKQKL7RNlKB2s0",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2731729565b5d47d156dadb302c",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e021729565b5d47d156dadb302c",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048511729565b5d47d156dadb302c",
+                "width": 64
+              }
+            ],
+            "name": "Emily In Paris Season 3 (Soundtrack from the Netflix Series)",
+            "release_date": "2022-12-21",
+            "release_date_precision": "day",
+            "total_tracks": 15,
+            "type": "album",
+            "uri": "spotify:album:2MxZ2f68wKQKL7RNlKB2s0"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
+              },
+              "href": "https://api.spotify.com/v1/artists/59QZR94fPLVcOx2sWEk7xn",
+              "id": "59QZR94fPLVcOx2sWEk7xn",
+              "name": "Ashley Park",
+              "type": "artist",
+              "uri": "spotify:artist:59QZR94fPLVcOx2sWEk7xn"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3UBr7nFzZBhdtfghEZiOrp"
+              },
+              "href": "https://api.spotify.com/v1/artists/3UBr7nFzZBhdtfghEZiOrp",
+              "id": "3UBr7nFzZBhdtfghEZiOrp",
+              "name": "Kevin Dias",
+              "type": "artist",
+              "uri": "spotify:artist:3UBr7nFzZBhdtfghEZiOrp"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 209173,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USQX92206233"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/50Pxb2ZpDkGuiEnWdWTdKo"
+          },
+          "href": "https://api.spotify.com/v1/tracks/50Pxb2ZpDkGuiEnWdWTdKo",
+          "id": "50Pxb2ZpDkGuiEnWdWTdKo",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Shallow",
+          "popularity": 50,
+          "preview_url": "https://p.scdn.co/mp3-preview/1851e93be18164e96dc36ccd86da17c10add689b?cid=774b29d4f13844c495f206cafdad9c86",
+          "track_number": 2,
+          "type": "track",
+          "uri": "spotify:track:50Pxb2ZpDkGuiEnWdWTdKo"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+                },
+                "href": "https://api.spotify.com/v1/artists/7CQwac16i1W5ej8YpuL3dv",
+                "id": "7CQwac16i1W5ej8YpuL3dv",
+                "name": "Boyce Avenue",
+                "type": "artist",
+                "uri": "spotify:artist:7CQwac16i1W5ej8YpuL3dv"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/4GpfRZguf7uOAWUzKePjf5"
+            },
+            "href": "https://api.spotify.com/v1/albums/4GpfRZguf7uOAWUzKePjf5",
+            "id": "4GpfRZguf7uOAWUzKePjf5",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273ae75a74b145241e2b4baa7f9",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02ae75a74b145241e2b4baa7f9",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851ae75a74b145241e2b4baa7f9",
+                "width": 64
+              }
+            ],
+            "name": "Cover Sessions, Vol. 5",
+            "release_date": "2020-01-24",
+            "release_date_precision": "day",
+            "total_tracks": 30,
+            "type": "album",
+            "uri": "spotify:album:4GpfRZguf7uOAWUzKePjf5"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+              },
+              "href": "https://api.spotify.com/v1/artists/7CQwac16i1W5ej8YpuL3dv",
+              "id": "7CQwac16i1W5ej8YpuL3dv",
+              "name": "Boyce Avenue",
+              "type": "artist",
+              "uri": "spotify:artist:7CQwac16i1W5ej8YpuL3dv"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN"
+              },
+              "href": "https://api.spotify.com/v1/artists/1Ff1cuzx8IrADaKnclXscN",
+              "id": "1Ff1cuzx8IrADaKnclXscN",
+              "name": "Jennel Garcia",
+              "type": "artist",
+              "uri": "spotify:artist:1Ff1cuzx8IrADaKnclXscN"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 213900,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USM951900001"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2WihaIEZnX9dNRinCebwUj"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2WihaIEZnX9dNRinCebwUj",
+          "id": "2WihaIEZnX9dNRinCebwUj",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Shallow",
+          "popularity": 49,
+          "preview_url": "https://p.scdn.co/mp3-preview/cd2309370a8a5c3f7c9440661c5fe42c26c78b76?cid=774b29d4f13844c495f206cafdad9c86",
+          "track_number": 25,
+          "type": "track",
+          "uri": "spotify:track:2WihaIEZnX9dNRinCebwUj"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V"
+                },
+                "href": "https://api.spotify.com/v1/artists/5jd0MgoI9F3hxcQHBPEk6V",
+                "id": "5jd0MgoI9F3hxcQHBPEk6V",
+                "name": "Bossa Bros",
+                "type": "artist",
+                "uri": "spotify:artist:5jd0MgoI9F3hxcQHBPEk6V"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5oepLrqkyNIjVaRvFBrLTb"
+            },
+            "href": "https://api.spotify.com/v1/albums/5oepLrqkyNIjVaRvFBrLTb",
+            "id": "5oepLrqkyNIjVaRvFBrLTb",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2737b7c1ee69f712ad2591eab2d",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e027b7c1ee69f712ad2591eab2d",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048517b7c1ee69f712ad2591eab2d",
+                "width": 64
+              }
+            ],
+            "name": "Shallow",
+            "release_date": "2020-05-29",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:5oepLrqkyNIjVaRvFBrLTb"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V"
+              },
+              "href": "https://api.spotify.com/v1/artists/5jd0MgoI9F3hxcQHBPEk6V",
+              "id": "5jd0MgoI9F3hxcQHBPEk6V",
+              "name": "Bossa Bros",
+              "type": "artist",
+              "uri": "spotify:artist:5jd0MgoI9F3hxcQHBPEk6V"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 201000,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "SEBGA2000420"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/27ZhjPTdobnFHMFockNPep"
+          },
+          "href": "https://api.spotify.com/v1/tracks/27ZhjPTdobnFHMFockNPep",
+          "id": "27ZhjPTdobnFHMFockNPep",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Shallow",
+          "popularity": 57,
+          "preview_url": "https://p.scdn.co/mp3-preview/4cae77a04d55fa8c8294743149f6033a7212512a?cid=774b29d4f13844c495f206cafdad9c86",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:27ZhjPTdobnFHMFockNPep"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD"
+                },
+                "href": "https://api.spotify.com/v1/artists/4DpQLwz0jhUU7wuT9phTlD",
+                "id": "4DpQLwz0jhUU7wuT9phTlD",
+                "name": "Sarah Menescal",
+                "type": "artist",
+                "uri": "spotify:artist:4DpQLwz0jhUU7wuT9phTlD"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2i7MhuER8I9dk47TWkrT8t"
+            },
+            "href": "https://api.spotify.com/v1/albums/2i7MhuER8I9dk47TWkrT8t",
+            "id": "2i7MhuER8I9dk47TWkrT8t",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273528157cc8a3f24c235da7721",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02528157cc8a3f24c235da7721",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851528157cc8a3f24c235da7721",
+                "width": 64
+              }
+            ],
+            "name": "Modern Jukebox",
+            "release_date": "2020-08-14",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:2i7MhuER8I9dk47TWkrT8t"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD"
+              },
+              "href": "https://api.spotify.com/v1/artists/4DpQLwz0jhUU7wuT9phTlD",
+              "id": "4DpQLwz0jhUU7wuT9phTlD",
+              "name": "Sarah Menescal",
+              "type": "artist",
+              "uri": "spotify:artist:4DpQLwz0jhUU7wuT9phTlD"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/506zjFvbbNJcjxY260lHDC"
+              },
+              "href": "https://api.spotify.com/v1/artists/506zjFvbbNJcjxY260lHDC",
+              "id": "506zjFvbbNJcjxY260lHDC",
+              "name": "Luca Giacco",
+              "type": "artist",
+              "uri": "spotify:artist:506zjFvbbNJcjxY260lHDC"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 194233,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "ARF412000116"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4sNIj3P3X8VRd5y3HHDDYn"
+          },
+          "href": "https://api.spotify.com/v1/tracks/4sNIj3P3X8VRd5y3HHDDYn",
+          "id": "4sNIj3P3X8VRd5y3HHDDYn",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Shallow",
+          "popularity": 42,
+          "preview_url": "https://p.scdn.co/mp3-preview/4828cc06031eea909eedb69d646100a741f65eec?cid=774b29d4f13844c495f206cafdad9c86",
+          "track_number": 5,
+          "type": "track",
+          "uri": "spotify:track:4sNIj3P3X8VRd5y3HHDDYn"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO"
+                },
+                "href": "https://api.spotify.com/v1/artists/3erL8NEQbmmOXhO6yyVWxO",
+                "id": "3erL8NEQbmmOXhO6yyVWxO",
+                "name": "Celestial Aeon Project",
+                "type": "artist",
+                "uri": "spotify:artist:3erL8NEQbmmOXhO6yyVWxO"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2xmhZjOI2SpUYA20MupucX"
+            },
+            "href": "https://api.spotify.com/v1/albums/2xmhZjOI2SpUYA20MupucX",
+            "id": "2xmhZjOI2SpUYA20MupucX",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273f12fced5cae4beab5861f1e3",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02f12fced5cae4beab5861f1e3",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851f12fced5cae4beab5861f1e3",
+                "width": 64
+              }
+            ],
+            "name": "Film Music Covers, Vol. 1",
+            "release_date": "2019",
+            "release_date_precision": "year",
+            "total_tracks": 18,
+            "type": "album",
+            "uri": "spotify:album:2xmhZjOI2SpUYA20MupucX"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO"
+              },
+              "href": "https://api.spotify.com/v1/artists/3erL8NEQbmmOXhO6yyVWxO",
+              "id": "3erL8NEQbmmOXhO6yyVWxO",
+              "name": "Celestial Aeon Project",
+              "type": "artist",
+              "uri": "spotify:artist:3erL8NEQbmmOXhO6yyVWxO"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 163046,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "QZ22B2075969"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6IiDYUjgUp58cIrFoddXgt"
+          },
+          "href": "https://api.spotify.com/v1/tracks/6IiDYUjgUp58cIrFoddXgt",
+          "id": "6IiDYUjgUp58cIrFoddXgt",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Shallow (From \"A Star is Born\")",
+          "popularity": 25,
+          "preview_url": "https://p.scdn.co/mp3-preview/6c2e9e3c73a0dad204a9e6f9f6573fa3cf42477e?cid=774b29d4f13844c495f206cafdad9c86",
+          "track_number": 17,
+          "type": "track",
+          "uri": "spotify:track:6IiDYUjgUp58cIrFoddXgt"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl"
+                },
+                "href": "https://api.spotify.com/v1/artists/0MeNDWmyEBS65fk2Vihetl",
+                "id": "0MeNDWmyEBS65fk2Vihetl",
+                "name": "Figgy Malone",
+                "type": "artist",
+                "uri": "spotify:artist:0MeNDWmyEBS65fk2Vihetl"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/0WXTylU55NFcO4gLH2e4JP"
+            },
+            "href": "https://api.spotify.com/v1/albums/0WXTylU55NFcO4gLH2e4JP",
+            "id": "0WXTylU55NFcO4gLH2e4JP",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273601e8e67682102f61f0e195a",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02601e8e67682102f61f0e195a",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851601e8e67682102f61f0e195a",
+                "width": 64
+              }
+            ],
+            "name": "Piano Covers Part I",
+            "release_date": "2022-11-04",
+            "release_date_precision": "day",
+            "total_tracks": 4,
+            "type": "album",
+            "uri": "spotify:album:0WXTylU55NFcO4gLH2e4JP"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl"
+              },
+              "href": "https://api.spotify.com/v1/artists/0MeNDWmyEBS65fk2Vihetl",
+              "id": "0MeNDWmyEBS65fk2Vihetl",
+              "name": "Figgy Malone",
+              "type": "artist",
+              "uri": "spotify:artist:0MeNDWmyEBS65fk2Vihetl"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 236618,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "SE6RB2204644"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5zqW1M5Tkl07Nl2kGznE7F"
+          },
+          "href": "https://api.spotify.com/v1/tracks/5zqW1M5Tkl07Nl2kGznE7F",
+          "id": "5zqW1M5Tkl07Nl2kGznE7F",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Shallow - Piano Version",
+          "popularity": 49,
+          "preview_url": "https://p.scdn.co/mp3-preview/7cec584fbe04468180cd590403f939b2ed00401c?cid=774b29d4f13844c495f206cafdad9c86",
+          "track_number": 4,
+          "type": "track",
+          "uri": "spotify:track:5zqW1M5Tkl07Nl2kGznE7F"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg"
+                },
+                "href": "https://api.spotify.com/v1/artists/5Hc9oDGvStNGmnj44m8sHg",
+                "id": "5Hc9oDGvStNGmnj44m8sHg",
+                "name": "Tyler Ward",
+                "type": "artist",
+                "uri": "spotify:artist:5Hc9oDGvStNGmnj44m8sHg"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2fPoRKXtIhmc70zJlDrTY2"
+            },
+            "href": "https://api.spotify.com/v1/albums/2fPoRKXtIhmc70zJlDrTY2",
+            "id": "2fPoRKXtIhmc70zJlDrTY2",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2737802ad7d77a91f7563f0fc7d",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e027802ad7d77a91f7563f0fc7d",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048517802ad7d77a91f7563f0fc7d",
+                "width": 64
+              }
+            ],
+            "name": "he said. she said.",
+            "release_date": "2019-05-17",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:2fPoRKXtIhmc70zJlDrTY2"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg"
+              },
+              "href": "https://api.spotify.com/v1/artists/5Hc9oDGvStNGmnj44m8sHg",
+              "id": "5Hc9oDGvStNGmnj44m8sHg",
+              "name": "Tyler Ward",
+              "type": "artist",
+              "uri": "spotify:artist:5Hc9oDGvStNGmnj44m8sHg"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6fg51LVMgKxGjpIR9ihl9k"
+              },
+              "href": "https://api.spotify.com/v1/artists/6fg51LVMgKxGjpIR9ihl9k",
+              "id": "6fg51LVMgKxGjpIR9ihl9k",
+              "name": "Madysyn",
+              "type": "artist",
+              "uri": "spotify:artist:6fg51LVMgKxGjpIR9ihl9k"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 182553,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "GBDMT1800332"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1XW1lKfocLOAUdp8rUQoNC"
+          },
+          "href": "https://api.spotify.com/v1/tracks/1XW1lKfocLOAUdp8rUQoNC",
+          "id": "1XW1lKfocLOAUdp8rUQoNC",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Shallow - Acoustic",
+          "popularity": 51,
+          "preview_url": "https://p.scdn.co/mp3-preview/ccbf1b15238e0842ca18dc023f2ddede29d7c188?cid=774b29d4f13844c495f206cafdad9c86",
+          "track_number": 2,
+          "type": "track",
+          "uri": "spotify:track:1XW1lKfocLOAUdp8rUQoNC"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+                },
+                "href": "https://api.spotify.com/v1/artists/5CBNhusqki2s2jp4Lo6i2L",
+                "id": "5CBNhusqki2s2jp4Lo6i2L",
+                "name": "JLV",
+                "type": "artist",
+                "uri": "spotify:artist:5CBNhusqki2s2jp4Lo6i2L"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7Cf1QhdtHmjlckbnmUeC6l"
+                },
+                "href": "https://api.spotify.com/v1/artists/7Cf1QhdtHmjlckbnmUeC6l",
+                "id": "7Cf1QhdtHmjlckbnmUeC6l",
+                "name": "Kairos Grove",
+                "type": "artist",
+                "uri": "spotify:artist:7Cf1QhdtHmjlckbnmUeC6l"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5NOr6STbGLCzJWNXw6MUHl"
+            },
+            "href": "https://api.spotify.com/v1/albums/5NOr6STbGLCzJWNXw6MUHl",
+            "id": "5NOr6STbGLCzJWNXw6MUHl",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2732c9796c98356398c090f88d6",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e022c9796c98356398c090f88d6",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048512c9796c98356398c090f88d6",
+                "width": 64
+              }
+            ],
+            "name": "Shallow Water",
+            "release_date": "2022-11-18",
+            "release_date_precision": "day",
+            "total_tracks": 3,
+            "type": "album",
+            "uri": "spotify:album:5NOr6STbGLCzJWNXw6MUHl"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+              },
+              "href": "https://api.spotify.com/v1/artists/5CBNhusqki2s2jp4Lo6i2L",
+              "id": "5CBNhusqki2s2jp4Lo6i2L",
+              "name": "JLV",
+              "type": "artist",
+              "uri": "spotify:artist:5CBNhusqki2s2jp4Lo6i2L"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7Cf1QhdtHmjlckbnmUeC6l"
+              },
+              "href": "https://api.spotify.com/v1/artists/7Cf1QhdtHmjlckbnmUeC6l",
+              "id": "7Cf1QhdtHmjlckbnmUeC6l",
+              "name": "Kairos Grove",
+              "type": "artist",
+              "uri": "spotify:artist:7Cf1QhdtHmjlckbnmUeC6l"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 176564,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "DES232200500"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3tWQU3TEJ9PLYWVgQfsrMG"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3tWQU3TEJ9PLYWVgQfsrMG",
+          "id": "3tWQU3TEJ9PLYWVgQfsrMG",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Shallow Water - Edit",
+          "popularity": 59,
+          "preview_url": "https://p.scdn.co/mp3-preview/47242558f84d6ab3f5a8cb01cf2053a6649a3d48?cid=774b29d4f13844c495f206cafdad9c86",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:3tWQU3TEJ9PLYWVgQfsrMG"
+        },
+        {
+          "album": {
+            "album_type": "compilation",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5WqAC2eKe7UnQifadzN9r7"
+                },
+                "href": "https://api.spotify.com/v1/artists/5WqAC2eKe7UnQifadzN9r7",
+                "id": "5WqAC2eKe7UnQifadzN9r7",
+                "name": "Covers Culture",
+                "type": "artist",
+                "uri": "spotify:artist:5WqAC2eKe7UnQifadzN9r7"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/14TQfFb3Ie4ERd4Ueym7UF"
+            },
+            "href": "https://api.spotify.com/v1/albums/14TQfFb3Ie4ERd4Ueym7UF",
+            "id": "14TQfFb3Ie4ERd4Ueym7UF",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273800f6faad5b7e60e8e4053a5",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02800f6faad5b7e60e8e4053a5",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851800f6faad5b7e60e8e4053a5",
+                "width": 64
+              }
+            ],
+            "name": "Acoustic Covers 2022 of Popular Songs - Acoustic Versions - Best Covers Songs - Chill Covers Music - Chill Out Lounge Covers",
+            "release_date": "2022-03-04",
+            "release_date_precision": "day",
+            "total_tracks": 178,
+            "type": "album",
+            "uri": "spotify:album:14TQfFb3Ie4ERd4Ueym7UF"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5WqAC2eKe7UnQifadzN9r7"
+              },
+              "href": "https://api.spotify.com/v1/artists/5WqAC2eKe7UnQifadzN9r7",
+              "id": "5WqAC2eKe7UnQifadzN9r7",
+              "name": "Covers Culture",
+              "type": "artist",
+              "uri": "spotify:artist:5WqAC2eKe7UnQifadzN9r7"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6YjLcNee0zYri4IbAnsC2D"
+              },
+              "href": "https://api.spotify.com/v1/artists/6YjLcNee0zYri4IbAnsC2D",
+              "id": "6YjLcNee0zYri4IbAnsC2D",
+              "name": "Acoustic Covers Culture",
+              "type": "artist",
+              "uri": "spotify:artist:6YjLcNee0zYri4IbAnsC2D"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6jqJtgQMxwzgdxaJX2Jw3B"
+              },
+              "href": "https://api.spotify.com/v1/artists/6jqJtgQMxwzgdxaJX2Jw3B",
+              "id": "6jqJtgQMxwzgdxaJX2Jw3B",
+              "name": "Lounge Covers Culture Of Popular Songs",
+              "type": "artist",
+              "uri": "spotify:artist:6jqJtgQMxwzgdxaJX2Jw3B"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 156644,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLRD52017564"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7qsXsNSA7hMNt51jJpouze"
+          },
+          "href": "https://api.spotify.com/v1/tracks/7qsXsNSA7hMNt51jJpouze",
+          "id": "7qsXsNSA7hMNt51jJpouze",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Shallow - Acoustic Covers Versions of Popular Songs",
+          "popularity": 27,
+          "preview_url": "https://p.scdn.co/mp3-preview/eab802944bb52a51adf11bf656e5336ef278dad0?cid=774b29d4f13844c495f206cafdad9c86",
+          "track_number": 59,
+          "type": "track",
+          "uri": "spotify:track:7qsXsNSA7hMNt51jJpouze"
+        }
+      ],
+      "limit": 10,
+      "next": "https://api.spotify.com/v1/search?query=Shallow&type=track&market=ES&locale=en-US%2Cen%3Bq%3D0.9&offset=15&limit=10",
+      "offset": 5,
+      "previous": "https://api.spotify.com/v1/search?query=Shallow&type=track&market=ES&locale=en-US%2Cen%3Bq%3D0.9&offset=0&limit=10",
+      "total": 1000
+    }
+  }
+  

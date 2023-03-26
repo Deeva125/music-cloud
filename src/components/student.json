@@ -1,0 +1,19 @@
+{
+  "msg": "Student info found",
+  "allStudentDetails": {
+    "studentName": "Deeva Singhal",
+    "studentEmail": "rupaligupta75071@gmail.com",
+    "grade": 5,
+    "studentDob": null,
+    "imageUrl": null,
+    "gender": null,
+    "communicationEmail": "rupaligupta75071@gmail.com",
+    "parentName": "Rupali",
+    "parentContact": 14697127020,
+    "address": null,
+    "state": null,
+    "city": null,
+    "pincode": null,
+    "name": null
+  }
+}
