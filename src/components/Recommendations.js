@@ -19,14 +19,20 @@ function Recommendations() {
         return (
           <>
             <div className="card" style={{ width: "18rem" }}>
-              <img src="" className="card-img-top" alt="" />
+              <img
+                src={element.images[0].url}
+                className="card-img-top"
+                alt=""
+              />
               <div className="card-body">
                 <h5 className="card-title">{element.name}</h5>
                 <p className="card-text">{element.artists[0].name}</p>
                 <p className="card-text">{element.release_date}</p>
-                <a href="#" className="btn btn-primary">
-                  Go somewhere
-                </a>
+                <audio
+                  className="w-100"
+                  controls
+                  src={element.preview_url}
+                ></audio>
               </div>
             </div>
           </>
