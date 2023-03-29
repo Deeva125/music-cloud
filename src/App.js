@@ -3,6 +3,7 @@ import "./App.css";
 import Navbar from "./components/Navbar";
 import { useState } from "react";
 import HomePage from "./components/HomePage";
+import Recommendations from "./components/Recommendations";
 
 function App() {
   const [songs, setSongs] = useState([]);
@@ -22,6 +23,7 @@ function App() {
     <>
       <Navbar getSongs={getSongs} setKeyword={setKeyword} />
       <HomePage songs={songs} />
+      <Recommendations />
     </>
   );
 }
