@@ -27,6 +27,7 @@ function Navbar(props) {
             >
               <input
                 id="search"
+                ref={props.keywordRef}
                 value={props.songs}
                 onChange={(event) => {
                   props.setKeyword(event.target.value);
